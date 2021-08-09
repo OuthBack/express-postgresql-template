@@ -104,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/OuthBack/express-postgresql-template
    ```
 2. Install NPM packages
    ```sh
@@ -116,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Enter your Database Config in `ormconfig.json`
    ```json
-     "host": "localhost",
+    "host": "localhost",
     "port": 5432,
     "username": "teste",
     "password": "teste",
